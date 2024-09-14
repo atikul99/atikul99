@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Atikul Islam</h1>
-<h3 align="center">A passionate WordPress developer from Bangladesh</h3>
 
 - 🔭 I’m currently working at **Urno IT**
 
