@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working at **Urno IT**
+- 🔭 I’m currently working at **bug-finder**
 
-- 🌱 I’m currently learning **GSAP**
+- 🌱 I’m currently learning **React JS, Tailwind css, GSAP**
 
 - 📫 How to reach me **atikulislam94@gmail.com**
 
